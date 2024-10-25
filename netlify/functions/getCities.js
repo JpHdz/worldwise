@@ -1,4 +1,4 @@
-const citiesData = require("../data.json"); // Adjust the path as needed
+const citiesData = require("../../data/cities.json"); // Adjust the path as needed
 
 exports.handler = async (event, context) => {
   return {
