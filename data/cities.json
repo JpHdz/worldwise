@@ -1,0 +1,100 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": "73930385"
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": "17806751"
+    },
+    {
+      "id": "922e",
+      "cityName": "Anaheim-Santa Ana-Garden Grove",
+      "country": "United States of America (the)",
+      "emoji": "🇺🇸",
+      "date": "2024-04-23T18:05:25.413Z",
+      "notes": "",
+      "position": {
+        "lat": "33.80240145094264",
+        "lng": "-117.96106338500978"
+      }
+    },
+    {
+      "id": "6b4a",
+      "cityName": "Anaheim-Santa Ana-Garden Grove",
+      "country": "United States of America (the)",
+      "emoji": "🇺🇸",
+      "date": "2024-04-24T14:57:52.643Z",
+      "notes": "a",
+      "position": {
+        "lat": "33.799405875869724",
+        "lng": "-117.96003341674806"
+      }
+    },
+    {
+      "id": "854f",
+      "cityName": "Township of Stanton",
+      "country": "United States of America (the)",
+      "emoji": "🇺🇸",
+      "date": "2024-04-24T17:04:18.602Z",
+      "notes": "chi",
+      "position": {
+        "lat": "40.44694705960048",
+        "lng": "-97.64648437500001"
+      }
+    },
+    {
+      "id": "ecac",
+      "cityName": "Leon de los Aldama",
+      "country": "Mexico",
+      "emoji": "🇲🇽",
+      "date": "2024-05-02T23:46:57.793Z",
+      "notes": "a",
+      "position": {
+        "lat": "21.13494468535109",
+        "lng": "-101.68842315673828"
+      }
+    },
+    {
+      "id": "61d1",
+      "cityName": "Leon de los Aldama",
+      "country": "Mexico",
+      "emoji": "🇲🇽",
+      "date": "2024-05-02T23:47:35.332Z",
+      "notes": "b",
+      "position": {
+        "lat": "21.121014080827777",
+        "lng": "-101.73717498779298"
+      }
+    },
+    {
+      "id": "0d82",
+      "cityName": "Anaheim-Santa Ana-Garden Grove",
+      "country": "United States of America (the)",
+      "emoji": "🇺🇸",
+      "date": "2024-10-24T20:45:27.482Z",
+      "notes": "",
+      "position": {
+        "lat": "33.852169701407426",
+        "lng": "-117.89840698242189"
+      }
+    }
+  ]
+}
