@@ -7,7 +7,8 @@ import {
   useState,
 } from "react";
 
-const BASE_URL = "http://127.0.0.1:9000";
+// const BASE_URL = "http://127.0.0.1:9000";
+const BASE_URL = "https://worldwise-jphdz.netlify.app:9000";
 
 const CitiesContext = createContext();
 
