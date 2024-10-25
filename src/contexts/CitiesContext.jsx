@@ -7,7 +7,9 @@ import {
   useState,
 } from "react";
 
-const BASE_URL = "http://127.0.0.1:9000";
+// const BASE_URL = "http://127.0.0.1:9000";
+const isLocal = window.location.hostname === "localhost";
+const BASE_URL = isLocal ? "http://127.0.0.1:9000" : "/api";
 
 const CitiesContext = createContext();
 
@@ -73,6 +75,7 @@ function CitiesProvider({ children }) {
       dispatch({ type: "loading" });
       try {
         const res = await fetch(`${BASE_URL}/cities`);
+        // const res = await fetch(`api/cities`);
         const data = await res.json();
         dispatch({ type: "cities/loaded", payload: data });
       } catch {
